@@ -107,3 +107,8 @@
 		}
 	});
 }());
+
+const increaseFontSize = () => {
+	var currTextSize = document.getElementById('b'); 
+		currTextSize.style.fontSize = '25px';
+  }
