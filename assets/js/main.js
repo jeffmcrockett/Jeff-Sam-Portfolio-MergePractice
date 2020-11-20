@@ -110,5 +110,5 @@
 
 const increaseFontSize = () => {
 	var currTextSize = document.getElementById('b'); 
-		currTextSize.style.fontSize = '30px';
+		currTextSize.style.fontSize = '25px';
   }
